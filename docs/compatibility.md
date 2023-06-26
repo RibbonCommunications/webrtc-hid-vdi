@@ -6,6 +6,8 @@ When used in a Citrix VDI environment, the Kandy HID SDK is backwards-compatible
 
 | Kandy HID Driver for VDI Version  | Delivery Date | eLux OS Target Architecture | Compatible Kandy HID SDK Version(s) | Comments  |
 | :-------------------------------: | :-----------: | :-------------------------: | :---------------------------------: | --------- |
+| 1.4.2-0                           | 2023-06-16    | 32 and 64 bit               | 1.6, 2.3                            | |
+| 1.4.1-0                           | 2020-04-14    | 32 and 64 bit               | 1.4, 1.5, 1.6, 2.3                  | |
 | 1.4.0-0                           | 2020-03-20    | 32 and 64 bit               | 1.4.0                               | |
 | 1.3.1-0                           | 2020-02-20    | 64 bit                      | 1.3.1                               | |
 | 1.3.1-0                           | 2020-01-31    | 32 bit                      | 1.3.1                               | |
