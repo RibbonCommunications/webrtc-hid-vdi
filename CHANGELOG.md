@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## 1.4.2-0 - 2023-06-16
 
 ### Fixed
-- Compatibility issue with Citrix Workspace App for Linux 2302 and up
+- Compatibility issue with Citrix Workspace App for Linux 2209 and up
 
 ## 1.4.1-0 - 2021-04-14
 
