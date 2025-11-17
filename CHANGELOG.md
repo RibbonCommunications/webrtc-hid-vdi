@@ -4,6 +4,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html). However, eLux packages also include a -X identifier, which represents the version of the eLux package
 
+## 1.4.2-1 - 2025-11-14
+
+### Changed
+- The Driver package is renamed / rebranded from "Kandy HID Driver" to "WebRTC HID Driver"
+
+### Added
+- Packaging for eLux7/RP7 images. `KAJ-2356`
+
+### Deprecated
+- eLux6/RP6 is now deprecated.
+
 ## 1.4.2-0 - 2023-06-16
 
 ### Fixed
